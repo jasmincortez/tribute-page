@@ -1,0 +1,39 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 55%;
+  max-width: 100%;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    color: #ffffff;
+    margin: 0;
+}
+
+
+main {
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    background: linear-gradient(to bottom right, #003300, #006600);
+}
+
+a{
+  color: #ffffff;
+}
+
+a:hover{
+  color: #ccffcc;
+}
+
+h1, h3, p, figcaption{
+  text-align: center;
+}
+
+h1, h3, p{
+  text-shadow: 2px 2px #000000;
+}
